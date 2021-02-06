@@ -7,7 +7,7 @@ class Main {
         String title = scanner.next();
         System.out.print("評価:");
         double star = scanner.nextDouble();
-        System.out.println(title + "の評価は☆" + star + "です");
+        System.out.println(title + "の評価は星" + star + "です");
         
     }
 }
